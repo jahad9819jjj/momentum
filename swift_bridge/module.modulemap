@@ -1,0 +1,5 @@
+module CMomentum {
+    header "MomentumBridge.h"
+    link "MomentumBridge"
+    export *
+}
